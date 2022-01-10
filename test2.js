@@ -19,6 +19,7 @@ const scores = [1.2,3];
 //メソッドの使用
 //分割代入
 //javascript文法
+//ブランチ変更
 //foreach文
 var num = 1;
 
