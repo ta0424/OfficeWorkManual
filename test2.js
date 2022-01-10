@@ -15,9 +15,15 @@ const scores = [1.2,3];
 //途中で要素の追加を行うようにする。
 //スプレッド構文　...
 //分割代入
-scores.splice(1,0,30,80);
-const [a,b,c,d] = scores;
+//foreach文
+//メソッドの使用
+//分割代入
+//javascript文法
+//foreach文
+var num = 1;
 
-console.log(a);
+console.log(typeof num);
+
+
 
 
